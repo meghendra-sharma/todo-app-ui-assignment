@@ -1,0 +1,88 @@
+.tasks{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+}
+.lists{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    color: gray;
+    font-size: 45px;
+}
+.card{
+    width: 200px;
+    height: 300px;
+    border: 1px solid red;
+    border-radius: 5px;
+    box-shadow: 4px 4px 15px gray;
+}
+.child2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.inside-card{
+    margin-left: 50px;
+}
+.label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    color: red;
+    font-size: 25px;
+}
+.completed-task{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration-style: solid;
+    text-decoration-color: red;
+    text-decoration: line-through;
+}
+.parent{
+    width: 1000px;
+    padding: 50px;
+    margin: auto;
+    
+}
+.add-list{
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    font-size: 23px;
+    position: absolute;
+    top: 10px;
+    right: 0px;
+}
+.child1{
+    position: relative;
+
+}
+.pending-task{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+input{
+    margin-left: 10px;
+}
+.icon{
+    position: absolute;
+    right: 90px;
+    top: 10px;
+    color: red;
+    font-weight: lighter;
+    font-size: 30px;
+}
+.link{
+    position: relative;
+}
+.link-text{
+    position: absolute;
+    right: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 15px;
+    font-weight: 400px;
+
+}

@@ -1,0 +1,98 @@
+.child2{
+    text-align: center;
+    margin-top: 50px;
+}
+.icon{
+    color: red;
+    font-size: 35px;
+}
+.text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: gray;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.inner-card{
+    margin-left: 50px;
+}
+.card{
+    width: 300px;
+    height: 400px;
+    border: 1px solid red;
+    border-radius: 10px;
+    box-shadow: 4px 4px 15px gray;
+    margin: auto;
+    position: relative;
+    
+}
+.child3{
+    margin-top: 50px;
+}
+.label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    font-weight: 400;
+    color: red;
+    font-size: 25px;
+}
+.completed-task{
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 20px;
+    text-decoration: line-through;
+    text-decoration-color: red;
+    text-decoration-style: solid;
+}
+input{
+    margin-left: 30px;
+
+}
+label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+#plus{
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    color: red;
+    font-weight: lighter;
+    font-size: 35px;
+}
+.child1{
+    display: flex;
+    justify-content: center;
+    
+}
+.line{
+    width: 100px;
+}
+.top-label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.hr{
+    margin-top: 35px;
+}
+.link{
+    position: relative;
+}
+.link-text{
+    position: absolute;
+    right: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 15px;
+    font-weight: 400px;
+
+}
+.parent{
+    padding-bottom: 50px;
+}

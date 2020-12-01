@@ -1,0 +1,55 @@
+
+.label{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 400px;
+    color: red;
+    margin-top: 30px;
+}
+.text-field{
+    border: 1px solid red;
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    margin-top: 30px;
+
+}
+.card{
+    width: 400px;
+    
+    border: 1px solid red;
+    border-radius: 5px;
+    box-shadow: 4px 4px 15px gray;
+    margin: auto;
+    text-align: center;
+}
+.button{
+    border-radius: 20px;
+    background-color: red; 
+    border : 0px solid red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 400px;
+    font-size: 25px ;
+    width: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.parent{
+    margin-top: 200px;
+    padding-bottom: 50px;
+}
+.link{
+    position: relative;
+}
+.link-text{
+    position: absolute;
+    right: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 15px;
+    font-weight: 400px;
+
+}

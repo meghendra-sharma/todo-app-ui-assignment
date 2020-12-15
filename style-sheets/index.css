@@ -86,3 +86,55 @@ input{
     font-weight: 400px;
 
 }
+@media screen and (min-width:320px) and (max-width:480px){
+    .parent{
+        width: 200px;
+    }
+    .tasks{
+        font-size: 30px;
+    }
+    .lists{
+        font-size: 30px;
+    }
+    .add-list{
+        display: none;
+    }
+    .icon{
+        right: 0px;
+    }
+    
+    .child2{
+        display: block;
+    }
+    .card{
+        border-color: white;
+        height: auto;
+        margin-top: 30px;
+    }
+    hr{
+        display: none;
+    }
+    .completed-task{
+        display: none;
+    }
+    .pending-task{
+        display: none;
+    }
+    #check-box1{
+        display: none;
+    }
+    #check-box2{
+        display: none;
+    }
+    #check-box3{
+        display: none;
+    }
+    .inside-card{
+        margin: auto;
+        padding-left: 5px;
+    }
+    .label{
+        color: gray;
+        font-size: 20px;
+    }
+}
